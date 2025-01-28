@@ -1,0 +1,36 @@
+# Allow all user-agents
+User-agent: *
+
+# Disallow indexing of the sitemap file itself
+Disallow: /sitemap.xml
+
+# Disallow indexing of the entire /assets directory
+Disallow: /assets/
+
+# Disallow indexing of the github pages original domain
+Disallow: /
+
+# Allow Googlebot to access the script
+User-agent: Googlebot
+Allow: /bundle.min.js
+
+# Explicitly allow favicon and related assets to ensure accessibility
+Allow: /assets/ico/favicon.ico
+
+# Link to the sitemap for proper crawling of allowed pages
+Sitemap: https://www.t2ne.eu/sitemap.xml
+
+#       ___                                        
+#     ,--.'|_                                      
+#     |  | :,'     ,---.         ,---,             
+#     :  : ' :    '   ,'\    ,-+-. /  |            
+#   .;__,'  /    /   /   |  ,--.'|'   |    ,---.   
+#   |  |   |    .   ; ,. : |   |  ,"' |   /     \  
+#   :__,'| :    '   | |: : |   | /  | |  /    /  | 
+#     '  : |__  '   | .; : |   | |  | | .    ' / | 
+#     |  | '.'| |   :    | |   | |  |/  '   ;   /| 
+#     ;  :    ;  \   \  /  |   | |--'   '   |  / | 
+#     |  ,   /    `----'   |   |/       |   :    | 
+#      ---`-'              '---'         \   \  /  
+#                                         `----'   
+#                   t2ne, 2025.                     
