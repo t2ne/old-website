@@ -1,9 +1,6 @@
 # Allow all user-agents
 User-agent: *
 
-# Disallow indexing of the sitemap file itself
-Disallow: /sitemap.xml
-
 # Disallow indexing of the entire /assets directory
 Disallow: /assets/
 
