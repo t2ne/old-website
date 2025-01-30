@@ -15,7 +15,7 @@ Allow: /bundle.min.js
 Allow: /assets/ico/favicon.ico
 
 # Link to the sitemap for proper crawling of allowed pages
-Sitemap: https://www.t2ne.eu/sitemap.xml
+Sitemap: https://t2ne.eu/sitemap.xml
 
 #       ___                                        
 #     ,--.'|_                                      
