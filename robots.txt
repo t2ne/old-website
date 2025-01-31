@@ -4,9 +4,6 @@ User-agent: *
 # Disallow indexing of the entire /assets directory
 Disallow: /assets/
 
-# Disallow indexing of the github pages original domain
-Disallow: /
-
 # Allow Googlebot to access the script
 User-agent: Googlebot
 Allow: /bundle.min.js
