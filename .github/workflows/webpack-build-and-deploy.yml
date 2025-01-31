@@ -35,7 +35,7 @@ jobs:
           npx webpack
 
       - name: Copy sitemap and robots to src folder
-        run: cp ./sitemap.xml ./robots.txt ./src/
+        run: cp ./map.xml ./robots.txt ./src/
   
       - name: Upload build artifact
         uses: actions/upload-pages-artifact@v3
