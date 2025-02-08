@@ -9,8 +9,8 @@ const TerserPlugin = require("terser-webpack-plugin");
 module.exports = {
   mode: "production",
   entry: {
-    main: ["./src/bundle.min.js"],
-    notFound: ["./src/404.bundle.min.js"],
+    main: ["./src/assets/js/bundle.min.js"],
+    notFound: ["./src/assets/js/404.bundle.min.js"],
   },
   output: {
     filename: (pathData) =>

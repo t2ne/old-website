@@ -348,7 +348,7 @@ export class T2neElement extends LitElement {
           target="_blank"
           rel="noopener noreferrer"
           ><img
-            src="assets/footer/github.avif"
+            src="assets/imgs/footer/github.avif"
             alt="GitHub"
             width="20"
             height="20"
@@ -359,7 +359,7 @@ export class T2neElement extends LitElement {
           target="_blank"
           rel="noopener noreferrer"
           ><img
-            src="assets/footer/linkedin.avif"
+            src="assets/imgs/footer/linkedin.avif"
             alt="LinkedIn"
             width="20"
             height="20"
@@ -370,52 +370,8 @@ export class T2neElement extends LitElement {
           target="_blank"
           rel="noopener noreferrer"
           ><img
-            src="assets/footer/linktree.avif"
+            src="assets/imgs/footer/linktree.avif"
             alt="LinkTree"
-            width="20"
-            height="20"
-        /></a>
-        <a
-          class="app-icon"
-          href="https://open.spotify.com/user/aantryy"
-          target="_blank"
-          rel="noopener noreferrer"
-          ><img
-            src="assets/footer/spotify.avif"
-            alt="Spotify"
-            width="20"
-            height="20"
-        /></a>
-        <a
-          class="app-icon"
-          href="https://www.chess.com/member/t2ne"
-          target="_blank"
-          rel="noopener noreferrer"
-          ><img
-            src="assets/footer/pawn.avif"
-            alt="Chess"
-            width="20"
-            height="20"
-        /></a>
-        <a
-          class="app-icon"
-          href="https://youtube.com/@t2ne"
-          target="_blank"
-          rel="noopener noreferrer"
-          ><img
-            src="assets/footer/youtube.avif"
-            alt="YouTube"
-            width="20"
-            height="20"
-        /></a>
-        <a
-          class="app-icon"
-          href="https://steamcommunity.com/id/t2ne"
-          target="_blank"
-          rel="noopener noreferrer"
-          ><img
-            src="assets/footer/steam.avif"
-            alt="Steam"
             width="20"
             height="20"
         /></a>
