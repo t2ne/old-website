@@ -110,7 +110,7 @@ export class T2neElement extends LitElement {
       case "about":
         return html`
           <div class="about-content">
-            t2ne (tone) is a 20-year-old third-year university student pursuing
+            t2ne is a 20-year-old third-year university student pursuing
             a bachelor's degree in graphic computer science and multimedia. With
             a solid foundation in programming languages like java and expertise
             in web development using html, css, and javascript, t2ne is

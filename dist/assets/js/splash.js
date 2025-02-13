@@ -8,7 +8,7 @@ export class SplashElement extends LitElement {
   render() {
     return html`
       <img
-        src="assets/imgs/signature/tone.avif"
+        src="assets/imgs/signature/t2ne.avif"
         alt="Splash Logo"
         @click=${this._handleClick}
       />
