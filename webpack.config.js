@@ -14,7 +14,7 @@ module.exports = {
   },
   output: {
     filename: (pathData) =>
-      pathData.chunk.name === "main" ? "bundle.min.js" : "404.bundle.min.js",
+      pathData.chunk.name === "main" ? "assets/js/bundle.min.js" : "assets/js/404.bundle.min.js",
     path: path.resolve(__dirname, "src"),
     clean: true,
     publicPath: "/",
