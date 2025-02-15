@@ -29,6 +29,11 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
 
+      - name: Remove Maps
+        run: |
+            rm -f ./src/assets/js/bundle.min.js.map
+            rm -f ./src/assets/js/404.bundle.min.js.map
+  
       - name: Install dependencies and build project
         run: |
           npm install
