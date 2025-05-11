@@ -10,6 +10,10 @@
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
-    "lit": "^3.2.1"
-  }
+    "lit": "^3.2.1",
+    "vite": "^6.3.5"
+  },
+  "scripts": {
+  "dev": "vite"
+}
 }
