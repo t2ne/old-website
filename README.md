@@ -1,6 +1,6 @@
 # t2ne Portfolio Website
 
-![t2ne.github.io](https://socialify.git.ci/t2ne/t2ne.github.io/image?description=1&font=Source+Code+Pro&language=1&name=1&owner=1&pattern=Charlie+Brown&theme=Dark)
+![t2ne.github.io](https://socialify.git.ci/t2ne/old-website/image?description=1&font=Source+Code+Pro&language=1&name=1&owner=1&pattern=Charlie+Brown&theme=Dark)
 
 This is the source code for **t8ne**'s online portfolio, designed to showcase skills, interests, and contact information interactively and dynamically. Built with `LitElement`, this site features a responsive interface, smooth transitions, and a typing animation on the homepage. The website also has 2 secretly built-in games.
 
